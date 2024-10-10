@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BrakeTracker</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_recycler_view">RecyclerViewActivity</string>
+    <string name="speed">Speed</string>
+    <string name="current_speed">Current Speed</string>
+    <string name="location">Location</string>
+    <string name="timestamp">Timestamp</string>
+</resources>
